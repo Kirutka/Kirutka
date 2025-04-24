@@ -7,13 +7,12 @@
   </a>
 </p>
 
-<div align="center">
-  <a href="https://t.me/Lesnoy_umorust" target="_blank">
+<div align="center" style="text-decoration: none;">
+  <a href="https://t.me/Lesnoy_umorust" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
   </a>
-  <a href="https://m.vk.com/id549536760" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge" 
-    height="25" alt="vk logo"/>
+  <a href="https://m.vk.com/id549536760" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo"/>
   </a>
 </div>
 
