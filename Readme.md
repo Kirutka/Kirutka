@@ -2,17 +2,12 @@
 <br clear="both">
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%" align="left">
-        <h1>Привет👋 Я Golang разработчик!</h1>
-      </td>
-      <td width="40%" align="right">
-        <img height="30%" width="30%" src="https://github.com/Kirutka/Kirutka/blob/main/animation.gif" />
-      </td>
-    </tr>
-  </table>
+  <img height="30%" width="30%" src="https://github.com/Kirutka/Kirutka/blob/main/animation.gif"  />
 </div>
+
+###
+
+<h1 align="center">Привет👋 Я Golang разработчик!</h1>
 
 ###
 
@@ -20,24 +15,20 @@
   <a href="https://t.me/Lesnoy_umorust" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  <div align="center">
   <a href="https://m.vk.com/id549536760" target="_blank">
     <img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo"  />
   </a>
 </div>
+</div>
+
 
 ###
 
-<table>
-  <tr>
-    <td width="60%" align="left" valign="top">
-      <h3 align="left">👩‍💻  Обо мне</h3>
-      <p align="left">Я разрабатываю на Golang более 2-х лет. В настоящее время я работаю над своими проектами, развиваюсь в бэкенд-разработке. Учусь в университете на 4 курсе.</p>
-    </td>
-    <td width="40%" align="right">
-      <!-- Гифка уже размещена выше -->
-    </td>
-  </tr>
-</table>
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+<p align="left">Я разрабатываю на Golang более 2-х лет. В настоящее время я работаю над своими проектами, развиваюсь в бэкенд-разработке. Учусь в университете на 4 курсе.</p>
+
 
 ###
 
