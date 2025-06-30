@@ -1,3 +1,4 @@
+<!--markdownlint-disable-->
 <br clear="both">
 
 <div align="center">
@@ -6,21 +7,27 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Кирилл!</h1>
+<h1 align="center">Привет👋 Я Golang разработчик!</h1>
 
 ###
 
 <div align="center">
-  <a href="https://t.me/tehnomaniak07" target="_blank">
+  <a href="https://t.me/Lesnoy_umorust" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  <div align="center">
+  <a href="https://m.vk.com/id549536760" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo"  />
+  </a>
 </div>
+</div>
+
 
 ###
 
 <h3 align="left">👩‍💻  Обо мне</h3>
 
-<p align="left">Я Golang разработчик с опытом более 2-х лет. В настоящее время я работаю над своими проектами, развиваюсь в бэкенд-разработке. Учусь в университете на 4 курсе.</p>
+<p align="left">Я разрабатываю на Golang более 2-х лет. В настоящее время я работаю над своими проектами, развиваюсь в бэкенд-разработке. Учусь в университете на 4 курсе.</p>
 
 
 ###
@@ -31,13 +38,15 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Мой стек:</h3>
 
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,go,docker,postgres,mysql,grafana,github,md,powershell,vscode" />
+    <img src="https://skillicons.dev/icons?i=go,kubernetes,docker,terraform,prometheus,html,css"/><br>
+    <img src="https://skillicons.dev/icons?i=postgres,kafka,git,github,bash,md"/><br>
+    <img src="https://skillicons.dev/icons?i=windows,powershell,grafana,mysql,gitlab,graphql,vscode" />
   </a>
 </p>
 
