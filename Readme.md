@@ -37,6 +37,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,docker,github,go,grafana,md,mysql,poweshell,postgres,sql,vscode," />
+    <img src="https://skillicons.dev/icons?i=git,bash,go,docker,postgres,mysql,grafana,github,md,powershell,vscode" />
   </a>
 </p>
