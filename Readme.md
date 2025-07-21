@@ -20,7 +20,7 @@
 
 <h3 align="left">👩‍💻  Обо мне</h3>
 
-<p align="left">Я Golang разработчик с опытом более 2-х лет. В настоящее время я работаю над своими проектами, развиваюсь в бэкенд-разработке. Учусь в университете на 4 курсе. Имею очень сильное желание развиваться в IT сфере</p>
+<p align="left">Я Golang разработчик с опытом более 2-х лет. В настоящее время я работаю над своими проектами, развиваюсь в бэкенд-разработке. Учусь в университете на 4 курсе. Имею очень сильное желание развиваться в IT сфере.</p>
 
 
 ###
@@ -40,3 +40,14 @@
     <img src="https://skillicons.dev/icons?i=git,bash,go,docker,postgres,mysql,grafana,github,md,powershell,vscode" />
   </a>
 </p>
+
+###
+
+<h3 align="left">🔥   Моя статистика :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=filimonovalexey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonovalexey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
