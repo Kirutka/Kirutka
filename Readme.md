@@ -2,7 +2,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="50%" width="50%" src="https://github.com/Kirutka/Kirutka/blob/main/animation.gif"  />
+  <img height="30%" width="30%" src="https://github.com/Kirutka/Kirutka/blob/main/animation.gif"  />
 </div>
 
 ###
