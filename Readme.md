@@ -1,33 +1,30 @@
 <!--markdownlint-disable-->
-<br clear="both">
-
-<div align="center">
-  <img height="30%" width="30%" src="https://github.com/Kirutka/Kirutka/blob/main/animation.gif"  />
-</div>
-
-###
-
-<h1 align="center">Привет👋 Я Golang разработчик!</h1>
-
-###
+<h1 align="center"><b>Привет, меня зовут Кирилл</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   <a href="https://t.me/Lesnoy_umorust" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <div align="center">
   <a href="https://m.vk.com/id549536760" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo"  />
+    <img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=0077FF&logoColor=white&labelColor=&style=for-the-badge" 
+    height="25" alt="vk logo"  />
   </a>
 </div>
-</div>
 
+<img align="right" height="30%" width="30%" src="https://github.com/Kirutka/Kirutka/blob/main/animation.gif"/>
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Обо мне_**
+Студент, изучающий компьютерную инженерию, сейчас нахожусь на полпути к получению диплома в своём университете.
+Я расширяю свои знания как в области front-end, так и back-end разработки и занимаюсь своими проектами. Мне нравится учиться и создавать что-то новое, продуктивное, инновационное и креативное.
+
+- 🌱 Сейчас я изучаю...
+  - HTML & CSS
+  - gRPC
+  - Websocket
+- Помимо технологий, я хожу в спортзал, путешествую и читаю книги разных жанров
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
-
-<p align="left">Я разрабатываю на Golang более 2-х лет. В настоящее время я работаю над своими проектами, развиваюсь в бэкенд-разработке. Учусь в университете на 4 курсе.</p>
 
 
 ###
