@@ -11,9 +11,10 @@
   </a>
 </div>
 
-<img align="right" height="30%" width="30%" src="https://github.com/Kirutka/Kirutka/blob/main/animation.gif"/>
+<img align="right" height="20%" width="20%" src="https://github.com/Kirutka/Kirutka/blob/main/animation.gif"/>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Обо мне_**
+
 Студент, изучающий компьютерную инженерию, сейчас нахожусь на полпути к получению диплома в своём университете.
 Я расширяю свои знания как в области front-end, так и back-end разработки и занимаюсь своими проектами. Мне нравится учиться и создавать что-то новое, продуктивное, инновационное и креативное.
 
