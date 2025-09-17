@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<img align="right" height="20%" width="20%" src="https://github.com/Kirutka/Kirutka/blob/main/animation.gif"/>
+<img align="right" width=300px src="https://github.com/Kirutka/Kirutka/blob/main/animation.gif"/>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Обо мне_**
 
