@@ -45,9 +45,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i= erl, go, docker, git, html, css"/><br>
-    <img src="https://skillicons.dev/icons?i= linux, bash, vim, ubuntu, postgres"/><br>
-    <img src="https://skillicons.dev/icons?i= windows, powershell, vscode, github, gitlab, md" />
+    <img src="https://skillicons.dev/icons?i=erl,go,docker,git,html,css"/><br>
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,ubuntu,postgres"/><br>
+    <img src="https://skillicons.dev/icons?i=windows,powershell,vscode,github,gitlab,md" />
   </a>
 </p>
 
