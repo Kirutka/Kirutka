@@ -18,7 +18,7 @@
 
 <img align="right" width=300px src="https://github.com/Kirutka/Kirutka/blob/main/animation.gif"/>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Обо мне_**
+**_Обо мне_**
 
 Я студент, который изучает компьютерную инженерию, сейчас нахожусь на полпути к **получению диплома**.
 
