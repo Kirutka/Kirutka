@@ -1,11 +1,23 @@
 <!--markdownlint-disable-->
-<h1 align="center"><b>Привет, меня зовут Кирилл </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Вас приветствует Кирилл </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=4000&pause=1000&color=1D74F7&center=true&width=450&lines=Golang;Erlang;HTML&CSS;Мысленно+работаю+в+Google;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=4000&pause=1000&color=1D74F7&center=true&width=450&lines=Напиши мне" alt="Typing SVG" />
   </a>
 </p>
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <div align="center" style="text-decoration: none;">
   <a href="https://t.me/Lesnoy_umorust" target="_blank" style="text-decoration: none;">
