@@ -21,9 +21,9 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWx2cGN1Y2VieDBpbzRidHYwMjQ1MmQxaWx4ajZkY3B4a2xrcG9pOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
 </div>
 
+###
+
 <img align="right" width=300px src="https://github.com/Kirutka/Kirutka/blob/main/animation.gif"/>
-
-
 
 ###
 
