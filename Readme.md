@@ -1,11 +1,6 @@
 <!--markdownlint-disable-->
 <h1 align="center"><b>Вас приветствует Кирилл </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=4000&pause=1000&color=1D74F7&center=true&width=450&lines=Напиши+мне;" alt="Typing SVG" />
-  </a>
-</p>
 
 
 <div align="center" style="text-decoration: none;">
@@ -19,7 +14,15 @@
 
 <img align="right" width=300px src="https://github.com/Kirutka/Kirutka/blob/main/animation.gif"/>
 
-**_Обо мне_**
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWx2cGN1Y2VieDBpbzRidHYwMjQ1MmQxaWx4ajZkY3B4a2xrcG9pOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
+</div>
+
+###
+
+<h3 align="left">Обо мне</h3>
+
+###
 
 Я студент, который изучает компьютерную инженерию, сейчас нахожусь на полпути к **получению диплома**.
 
@@ -40,13 +43,13 @@
 
 ###
 
-<h3 align="left">Мой стек:</h3>
+<h3 align="left">Мой стек</h3>
 
 ###
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,docker,git,html,css,mysql&theme=dark"/><br>
+    <img src="https://skillicons.dev/icons?i=go,docker,git,html,css,mysql"/><br>
     <img src="https://skillicons.dev/icons?i=linux,bash,vim,ubuntu,postgres"/><br>
     <img src="https://skillicons.dev/icons?i=windows,powershell,vscode,github,gitlab,md" />
   </a>
