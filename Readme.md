@@ -1,5 +1,5 @@
 <!--markdownlint-disable-->
-<h1 align="center"><b>Вас приветствует Кирилл </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Привет, я Кирилл</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center" style="text-decoration: none;">
   <a href="https://t.me/Lesnoy_umorust" target="_blank" style="text-decoration: none;">
@@ -14,37 +14,22 @@
 
 <img align="right" width=300px src="https://github.com/Kirutka/Kirutka/blob/main/animation.gif"/>
 
-###
-
-<h3 align="left">Обо мне</h3>
+### Обо мне
 
 ###
 
-**| Bakend-разработчик (Erlang) | Студент 4 курса | Linux User |**
+**| DevOps Engineer / SysAdmin|**
 
-Был капитаном команды КВН. Этот опыт научил меня ответственности, работе в команде, мотивации участников и публичным выступлениям. Умею работать с обратной связью и не теряюсь в стрессовых ситуациях.
+Фокусируюсь на построении надежной инфраструктуры, автоматизации рутинных задач и обеспечении наблюдаемости систем. Мой путь — это переход от разработки к управлению жизненным циклом приложений: от кода до продакшена.
 
-Когда я не за компьютером, вы найдете меня в спортзале или за чтением книги. Спорт помогает держать дисциплину, а книги — расширять кругозор.
+- **Linux & Bash:** Глубокое понимание ОС, написание скриптов для автоматизации развертывания и обслуживания серверов.
+- **Контейнеризация:** Упаковка приложений в Docker, оркестрация через Docker Compose, изучение Kubernetes.
+- **Observability:** Настройка стека мониторинга (Prometheus + Grafana + Loki) для контроля здоровья сервисов.
+- **CI/CD:** Настройка пайплайнов в GitHub Actions для автоматического тестирования и деплоя.
 
-Фокусируюсь на Backend-разработке, создаю личные проекты и постоянно учусь.
+> *Был капитаном команды КВН. Этот опыт научил меня работать в команде, брать ответственность за результат и находить нестандартные решения в стрессовых ситуациях.*
 
-
-- **Сейчас я изучаю:**
-  - PostgreSQL
-  - Docker & CI/CD
-  - Kubernetes (k8s)
-
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-###
-
-<h3 align="left">Мой стек</h3>
-
-###
+### Технический стек
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -52,4 +37,10 @@
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,vim,vscode,grafana,html,css"/><br>
     <img src="https://skillicons.dev/icons?i=windows,powershell,obsidian,postgres,mysql,redis,postman,md" />
   </a>
+</p>
+
+###
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
