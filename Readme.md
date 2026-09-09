@@ -48,8 +48,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker, kubernetes, terraform, ansible, git, github, gitlab, go"/><br>
-    <img src="https://skillicons.dev/icons?i=linux, ubuntu, bash, vim, vscode, grafana, html, css"/><br>
-    <img src="https://skillicons.dev/icons?i=windows, powershell, obsidian, postgres, mysql, redis, postman, md" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,git,github,gitlab,go"/><br>
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,vim,vscode,grafana,html,css"/><br>
+    <img src="https://skillicons.dev/icons?i=windows,powershell,obsidian,postgres,mysql,redis,postman,md" />
   </a>
 </p>
